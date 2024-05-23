@@ -1,0 +1,86 @@
+.team,
+.Seondteam,
+.tirdteam {
+    height: 70vh;
+    background-image: url(../../Assets/team1.webp);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.Seondteam {
+    background-image: url(../../Assets/team2.webp);
+}
+
+.tirdteam {
+    background-image: url(../../Assets/team3.webp);
+}
+
+.Filter {
+    height: 70vh;
+    width: 100%;
+    background: linear-gradient(0deg, #242424, #24242480 45%, #fff0 85% 100%);
+    position: absolute;
+
+}
+
+.AboutTeam {
+    width: 100%;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.team-des {
+    position: absolute;
+    bottom: 1rem;
+    padding: 0 1rem;
+}
+
+.team-des p {
+    font-size: .7rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.team-des h5 {
+    font-size: 2rem;
+}
+
+.team-single-icon {
+    background-color: black;
+    padding: 8px 13px;
+    border: 1px solid black;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.team-single-icon:hover {
+    color: black;
+    border-color: white;
+    background-color: white;
+    transition: all ease .3s;
+}
+
+.team-icon {
+    display: none;
+}
+
+.team-icon-appear {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+
+@media screen and (max-width:576px) {
+    .AboutTeam {
+
+        flex-direction: column;
+    }
+}

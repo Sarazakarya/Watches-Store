@@ -1,0 +1,27 @@
+.scroll-container {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    color: white;
+}
+
+.scroll-container.visible {
+    display: block;
+}
+
+.scroll-box {
+    background-color: #af7f66;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.scroll-box:hover {
+    transition: ease all .3s;
+    background-color: black;
+}

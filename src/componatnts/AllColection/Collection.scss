@@ -1,0 +1,52 @@
+.collection-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 3rem;
+}
+
+
+
+.collection-item img {
+    width: 90%;
+    height: 20rem;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.collection-item img:hover {
+    opacity: 90%;
+
+}
+
+.Collection a {
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: rgb(85, 84, 84);
+}
+
+.Collection a:hover {
+    color: brown;
+}
+
+@media screen and (max-width:1281px) {
+    .collection-item img {
+        width: 100%;
+
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .collection-item img {
+        height: 15rem;
+
+    }
+}
+
+@media screen and (max-width:992px) {
+    .collection-item img {
+        height: 15rem;
+
+    }
+}

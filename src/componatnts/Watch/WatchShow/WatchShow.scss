@@ -1,0 +1,71 @@
+.WatchShow {
+    padding: 7rem;
+    background-color: #f8f7f6;
+    width: 100%;
+    height: 72vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+}
+
+.WatchShow-img {
+    width: 29rem;
+}
+
+.WatchShow-left,
+.WatchShow-right {
+    display: flex;
+    flex-direction: column;
+    gap: 7rem;
+}
+
+.WatchShow h5 {
+    font-size: 15px;
+}
+
+.WatchShow p {
+    color: #a8a8a8;
+    font-weight: 400;
+}
+
+@media screen and (max-width:1281px) {
+    .WatchShow {
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width:1200px) {
+
+
+    .WatchShow-img {
+        width: 15rem;
+    }
+
+    .WatchShow h1 {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .WatchShow h1 {
+        font-size: 1rem;
+    }
+
+}
+
+@media screen and (max-width:576px) {
+    .WatchShow {
+        background-color: #f8f7f6;
+        width: 100%;
+        height: 1200px;
+    }
+
+    .WatchShow-img {
+        margin: 5rem;
+        width: 11rem;
+    }
+}

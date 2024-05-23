@@ -1,0 +1,58 @@
+.img-back {
+    width: 100%;
+    height: 17rem;
+    object-fit: cover;
+}
+
+
+.Categories-items .CardItem {
+    width: 48%;
+}
+
+.BestSellerComponent {
+    margin-bottom: 100px;
+}
+
+//selected box 
+.categorySelected {
+    background: #e9e8e7;
+    padding: 1rem;
+    width: 30%;
+    margin: 1rem 0;
+}
+
+.categorySelected select {
+    background: #e9e8e7;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: .5rem;
+}
+
+.categorySelected select option {
+    background: white;
+}
+
+.categorySelected:hover {
+    outline: 1px solid black;
+}
+
+
+//Responsive
+
+@media screen and (max-width:576px) {
+    .Categories-items .CardItem {
+        width: 108%;
+    }
+
+    .categorySelected {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .categorySelected {
+
+        width: 70%;
+    }
+}

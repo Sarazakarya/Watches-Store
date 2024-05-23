@@ -1,0 +1,250 @@
+.ShoppingCart a {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 4rem;
+
+    h1 {
+        margin-bottom: 3rem;
+    }
+}
+
+
+
+table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+table td {
+    color: #535353;
+}
+
+
+
+td img {
+    width: 17%;
+}
+
+.item-card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.item-table {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-table td {
+    font-size: .9rem;
+}
+
+.item-card div {
+    display: flex;
+    flex-direction: column;
+    font-size: .9rem;
+}
+
+.priceitem {
+    display: flex;
+    border: 1px solid #af7f66;
+    width: 90px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btns-price {
+    display: flex;
+    flex-direction: column;
+}
+
+.prices {
+    display: flex;
+    justify-content: space-around;
+
+    justify-content: center;
+}
+
+table .quntity {
+    padding-left: 35%;
+}
+
+.remove-btn {
+    cursor: pointer;
+}
+
+.notFound {
+    text-align: center;
+}
+
+.notFound p {
+    color: gray;
+}
+
+.notFound button {
+    background-color: #242424;
+    color: white;
+    width: 15%;
+    font-size: 12px;
+    outline: none;
+    border: none;
+    padding: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 140px;
+}
+
+.notFound button:hover {
+    transition: ease all .3s;
+    background-color: #af7f66;
+}
+
+.remove-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 140px;
+}
+
+.total-price {
+
+    gap: 2rem;
+    display: flex;
+    font-size: 1.1rem;
+}
+
+.Total .View-btn {
+    background-color: black;
+    color: white;
+    font-size: .8rem;
+    outline: none;
+    border: none;
+
+}
+
+.Total .View-btn:hover {
+    background-color: #af7f66;
+}
+
+.price-table {
+    text-align: center;
+}
+
+.quntity-prices {
+    display: none;
+}
+
+@media screen and (max-width:992px) {
+    .notFound button {
+        width: 30%;
+    }
+
+    .item-card {
+        gap: 0rem;
+    }
+
+    .item-card div {
+
+        font-size: 0.8rem;
+    }
+
+    .ShoppingCart .container,
+    .container-md,
+    .container-sm {
+        max-width: 800px;
+    }
+
+    td img {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .notFound button {
+        width: 50%;
+    }
+
+
+
+
+    .item-qunti {
+        display: none;
+
+    }
+
+    thead .row>* {
+        width: 50% !important;
+    }
+
+    .hr-table-items {
+        width: 100%;
+    }
+
+    .item-card {
+        flex-direction: column;
+        align-content: center;
+        gap: 0rem;
+        align-items: center;
+    }
+
+    td img {
+        width: 100%;
+    }
+
+    .item-card div {
+
+        align-items: center;
+    }
+
+    .product-single-item {
+        font-size: .6rem;
+        width: 90%;
+        text-align: center;
+    }
+
+    .product-item-head {
+        text-align: center;
+    }
+
+    .quntity-prices {
+        display: flex;
+    }
+
+    .respo-quntity {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .prices {
+        display: flex;
+        justify-content: center;
+    }
+
+    .priceitem {
+        width: 100px;
+    }
+
+    .item-table {
+        flex-wrap: nowrap;
+    }
+
+    .item-table .col-sm-6 {
+        width: 50%;
+    }
+
+    .remove-total {
+        display: flex;
+        margin-bottom: 1rem;
+        align-content: center;
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

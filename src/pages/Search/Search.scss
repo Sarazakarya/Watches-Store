@@ -1,0 +1,99 @@
+.search .seacrh-inp {
+    background-color: #e9e8e7;
+    width: 50%;
+
+}
+
+.pagenation-search {
+    margin-bottom: 70px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.search input {
+    background-color: #e9e8e7;
+    color: black;
+}
+
+.search .icon {
+    background-color: black;
+    color: white;
+}
+
+.seacrleft img {
+    width: 7rem;
+}
+
+.seacrleft {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin: 4rem 0;
+}
+
+.seacrleft a {
+    text-decoration: none;
+    color: black;
+}
+
+.seacrleft a:hover {
+    color: brown;
+}
+
+.Not-Found {
+    text-align: center;
+    font-size: 4rem;
+    margin: 5rem 0;
+}
+
+.pagination {
+    display: flex;
+    list-style: none;
+    margin: 1rem 0 !important;
+}
+
+.pagination li {
+    margin: 0 5px;
+}
+
+.pagination li a {
+    font-size: .6rem;
+    color: black;
+    text-decoration: none;
+    padding: 9px 10px;
+    border: 1px solid rgb(157 157 157 / 44%);
+}
+
+.pagination li a:hover {
+    background-color: black;
+    color: #fff !important;
+}
+
+.pagination .active a {
+    background-color: black;
+    color: #fff;
+    pointer-events: none;
+}
+
+.nextLabel {
+    font-size: .3rem !important;
+}
+
+@media screen and (max-width:992px) {
+    .seacrleft {
+        flex-wrap: nowrap;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .search {
+        margin-right: 7em;
+    }
+}

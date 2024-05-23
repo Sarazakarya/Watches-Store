@@ -1,0 +1,49 @@
+.dropDown-Home {
+    background: #272626;
+    padding: 3px 26px;
+    width: 207px;
+}
+
+.dropDown-Home ul {
+    list-style: none;
+}
+
+.home,
+.pages-page,
+.shop-page {
+    position: relative;
+    z-index: 1;
+}
+
+.homevi,
+.pagevisable,
+.shopvisable,
+.newsvisable {
+    left: 2rem;
+    top: 6.3rem;
+    position: absolute;
+    z-index: 1000;
+}
+
+.pagevisable {
+    left: 8rem;
+}
+
+.shopvisable {
+    left: 14rem;
+}
+
+.newsvisable {
+    left: 19.5rem;
+}
+
+.dropDown-Home li {
+    margin: 1rem 0 !important;
+}
+
+.dropDown-Home a {
+    font-weight: 400;
+    font-size: 13.5px;
+    color: white;
+    cursor: pointer;
+}

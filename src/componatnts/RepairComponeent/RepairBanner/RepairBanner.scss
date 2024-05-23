@@ -1,0 +1,132 @@
+.Repair-Section {
+    background-color: #f6f5f5;
+    width: 100%;
+}
+
+.swiper-slide {
+    height: 600px;
+}
+
+.Repair-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.Repair-sec {
+    position: relative;
+}
+
+.repair-des {
+    position: absolute;
+    z-index: 1000;
+    top: 9rem;
+    color: white;
+    padding: 2rem;
+}
+
+.Repair-sec h1 {
+    width: 58%;
+    font-size: 4rem;
+}
+
+.repair-des p {
+    width: 50%;
+}
+
+.ViewPrices-btn {
+    border: 2px solid #c2c0c0;
+    background: inherit;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 1rem;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.ViewPrices-btn:hover {
+    background-color: black;
+    transition: all ease .3s;
+    outline: none;
+    border-color: black;
+}
+
+.btn-swiper {
+    width: 100%;
+    font-size: 14.5px;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    z-index: 1000;
+    position: absolute;
+    bottom: 7rem;
+    color: white;
+}
+
+.privous {
+    margin-left: 7px;
+    letter-spacing: 3px;
+}
+
+.Next {
+    margin-right: 7px;
+    letter-spacing: 3px;
+}
+
+@media screen and (max-width:1281px) {
+    .btn-swiper {
+        bottom: 4rem;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .btn-swiper {
+        top: 42rem;
+        bottom: 0;
+    }
+
+    .Repair-img {
+        height: 100%;
+    }
+
+    .swiper-slide {
+        height: 600px;
+    }
+
+    .Repair-sec h1 {
+        font-size: 3.5rem;
+    }
+}
+
+@media screen and (max-width:576px) {
+
+    .swiper-slide {
+        height: 500px;
+        top: 0;
+    }
+
+    .btn-swiper {
+        top: 32rem;
+    }
+
+    .Repair-sec h1 {
+        font-size: 1.5rem;
+        width: 70%;
+    }
+
+    .repair-des {
+
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .btn-swiper {
+        top: 30rem;
+    }
+
+
+}

@@ -1,0 +1,85 @@
+.Sign-Form {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 120px;
+
+}
+
+.Sign-Form h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+
+.Sign-Form input {
+    width: 35rem;
+    margin-bottom: 10px;
+    background-color: #e9e8e7;
+    border: none;
+    padding: 1rem;
+}
+
+.Sign-Form input:focus {
+    background-color: white;
+    color: black;
+}
+
+.form-inp {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.Sign-Form button {
+    margin-top: 15px;
+    background-color: #242424;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 21px 30px;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    letter-spacing: .1em;
+}
+
+.Sign-Form button:hover {
+    background-color: #af7f66;
+    transition: all ease .3s;
+
+}
+
+.Sign-Form p {
+    color: #242424;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.Sign-Form a:hover {
+    color: #8a8a8a;
+}
+
+.Sign-Form a {
+    text-decoration: none;
+    color: #242424;
+    margin-top: 15px;
+    font-size: 1rem;
+}
+
+@media screen and (max-width:576px) {
+    .Sign-Form input {
+        width: 20rem;
+    }
+
+    .Sign-Form h1 {
+        font-size: 3.5rem;
+
+    }
+}

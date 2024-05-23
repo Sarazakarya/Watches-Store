@@ -1,0 +1,104 @@
+.WatchStory {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 100px 0px;
+}
+
+.WatchStory-right h1 {
+    font-family: ' font-family: "Karla", sans-serif;';
+    font-weight: 400;
+    font-size: 3.1rem;
+}
+
+.WatchStory p {
+    width: 80%;
+    text-align: start;
+    color: #a8a8a8;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.View-btn {
+    border: 2px solid #c2c0c0;
+    background: inherit;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 1rem;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.WatchStory-right {
+    padding-left: 14rem;
+}
+
+.View-btn:hover {
+    color: white;
+    background-color: black;
+    transition: ease all 900ms;
+}
+
+.WatchStory .Watch-img {
+    margin-left: -100px;
+    width: 100% !important;
+}
+
+@media screen and (max-width:1281px) {
+    .WatchStory-right {
+        padding-left: 0;
+    }
+
+    .WatchStory .Watch-img {
+        margin-left: -100px;
+        width: 40rem !important;
+    }
+}
+
+@media screen and (max-width:1200px) {
+
+
+    .WatchStory .Watch-img {
+        width: 30rem !important;
+    }
+
+    .WatchStory-right h1 {
+
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width:992px) {
+
+
+    .WatchStory-right {
+        padding-left: 2rem;
+    }
+}
+
+@media screen and (max-width:776px) {
+    .WatchStory-right {
+        padding-left: 3rem;
+    }
+
+    .WatchStory p {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .WatchStory-right {
+        margin: 2rem 1rem;
+        padding-left: 1em;
+    }
+
+    .WatchStory p {
+        width: 100%;
+    }
+
+    .WatchStory .Watch-img {
+        margin-left: -20px;
+    }
+}

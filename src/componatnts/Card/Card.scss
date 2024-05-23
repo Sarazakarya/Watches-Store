@@ -1,0 +1,124 @@
+.CardItem {
+    background-color: #f8f7f6;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+}
+
+.carditems {
+    padding: 3rem;
+    width: 100%;
+    gap: 1.5rem;
+    display: flex;
+}
+
+.product-description {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+
+}
+
+.product-description img {
+    width: 7rem;
+    margin-bottom: 8px;
+}
+
+.prices {
+    display: flex;
+    gap: 6px;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #c2c0c0;
+}
+
+.img-watch {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.Watch {
+    width: 100%;
+}
+
+.Watch:hover {
+    transform: scale(1.1);
+    transition: ease all 900ms;
+}
+
+.View-btn {
+    border: 2px solid #c2c0c0;
+    background: inherit;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 1rem;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.btn-watch {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+}
+
+.View-btn:hover {
+    color: white;
+    background-color: black;
+    transition: ease all 900ms;
+}
+
+
+
+
+.Watchlist-Icon {
+    color: #9E9E9E;
+    font-size: 19px;
+    top: 2rem;
+    left: 1rem;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.Watchlist-ract {
+    color: brown;
+    font-size: 19px;
+    top: 2rem;
+    left: 1rem;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+}
+
+@media screen and (max-width:576px) {
+    .carditems {
+
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .carditems {
+        padding: 0rem !important;
+        gap: .5rem;
+    }
+
+    .modal-headel .btn-close {
+        margin-right: 50px !important;
+    }
+
+
+}

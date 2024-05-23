@@ -1,0 +1,40 @@
+.LastNews {
+    width: 100%;
+    background-color: #f8f7f6;
+    margin-top: 40px;
+    padding: 3rem 3rem;
+}
+
+.LastNews h1 {
+    margin-bottom: 40px;
+}
+
+.LastNews img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+}
+
+.posts {
+    display: flex;
+    gap: .9rem;
+}
+
+.posts-des a {
+    text-decoration: none;
+    color: black;
+}
+
+.posts-des a:hover {
+    color: #af7f66;
+}
+
+.posts_sec {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.posts-des p {
+    color: gray;
+}

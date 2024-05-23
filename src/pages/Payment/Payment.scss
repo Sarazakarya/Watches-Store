@@ -1,0 +1,79 @@
+.payment-inp {
+
+    border-right: 1px solid gray;
+    height: 130vh;
+    padding: 2rem 2rem 0 0;
+
+
+}
+
+.Payment hr {
+    margin-bottom: 0;
+}
+
+.Payment-Form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.payment-inpts input {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #e9e8e7;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+
+
+.payment-credit p {
+    color: gray;
+    font-size: .9rem;
+}
+
+.credit-card {
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+}
+
+.credit-card h6 {
+    padding: 1rem 2rem 0 2rem;
+}
+
+.credit-card hr {
+    margin-bottom: 1.5rem;
+}
+
+.credit-head {
+    background-color: #fbfbfb;
+    border-radius: 10px;
+}
+
+.credit-footer {
+    padding: 0 2rem;
+}
+
+.credit-footer input {
+    border-radius: 5px;
+}
+
+.Payment button {
+    background-color: #af7f66;
+    border: none;
+    outline: none;
+    color: white;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+.Payment button:hover {
+    opacity: 80%;
+    cursor: pointer;
+}

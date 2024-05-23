@@ -1,0 +1,134 @@
+ .modal {
+     display: flex !important;
+     flex-direction: row;
+     flex-wrap: wrap;
+     align-content: center;
+     justify-content: flex-start;
+     align-items: center;
+
+ }
+
+ .modal-dialog {
+     width: 100% !important;
+     margin-left: 24rem;
+
+
+ }
+
+ .watchlist-Card {
+     flex-wrap: wrap;
+
+ }
+
+ .watchlist-Card p {
+     text-align: center;
+ }
+
+ .watchlist-Card .col-md-4 {
+     width: 31%;
+ }
+
+
+ .modal-content {
+     height: 70vh;
+     overflow-x: clip;
+     overflow-y: auto;
+     width: 60rem !important;
+ }
+
+ .WathcList-Empty {
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+     align-content: center;
+     transform: translatey(47%);
+
+ }
+
+ .WathcList-Empty button {
+     background-color: #242424;
+     color: white;
+     width: 100%;
+     font-size: 12px;
+     outline: none;
+     border: none;
+     padding: 1.2rem;
+     font-weight: 600;
+     margin-bottom: 140px;
+ }
+
+ .WathcList-Empty button:hover {
+     transition: ease all .3s;
+     background-color: #af7f66;
+ }
+
+ @media screen and (max-width:1281px) {
+     .modal-dialog {
+         margin-left: 11rem;
+     }
+ }
+
+ @media screen and (max-width:1200px) {
+     .modal-dialog {
+         margin-left: 2rem;
+     }
+ }
+
+ @media screen and (max-width:992px) {
+     .modal-dialog {
+         margin-left: 1rem;
+     }
+
+     .modal-content {
+         height: 100%;
+         width: 825px !important;
+     }
+
+     .btn-close {
+         margin-right: 20px !important;
+     }
+ }
+
+ @media screen and (max-width:883px) {
+     .modal-dialog {
+         margin-left: 0rem;
+     }
+
+     .btn-close {
+         margin-right: 20px !important;
+     }
+ }
+
+ @media screen and (max-width:800px) {
+
+     .modal-header .btn-close {
+         margin-right: 100px !important;
+     }
+
+
+ }
+
+ @media screen and (max-width:576px) {
+
+     .watchlist-Card .col-md-4 {
+         width: 100%;
+     }
+
+     .modal-content {
+         height: 70vh;
+         width: 405px !important;
+     }
+
+     .modal-header .btn-close {
+         margin-right: 0px !important;
+     }
+
+ }
+
+ @media screen and (max-width:400px) {
+     .modal-content {
+         height: 70vh;
+         width: 365px !important;
+     }
+ }

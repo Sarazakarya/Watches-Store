@@ -1,0 +1,80 @@
+.AboutMap {
+    padding: 1rem;
+    margin-bottom: 100px;
+    display: flex;
+}
+
+.send-btn {
+    border: 2px solid #c2c0c0;
+    background: inherit;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 1rem;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width: 200px;
+}
+
+.send-btn:hover {
+    color: white;
+    background-color: black;
+    transition: ease all 900ms;
+}
+
+.map-des {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.first-inpts {
+    display: flex;
+    gap: 1rem;
+
+}
+
+.first-inpts input,
+.teatarea {
+    background: #e9e8e7;
+    padding: 0.6rem;
+    width: 287px;
+    border: none;
+}
+
+.teatarea {
+    width: 590px;
+}
+
+@media screen and (max-width:1200px) {
+
+    .first-inpts input {
+        width: 230px;
+    }
+
+    .teatarea {
+
+        width: 473px;
+
+    }
+
+    .send-btn {
+        width: 180px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .AboutMap {
+
+        flex-direction: column;
+    }
+
+    .first-inpts input,
+    .teatarea {
+        width: 100%;
+    }
+
+    .send-btn {
+        margin-bottom: 2rem;
+    }
+}

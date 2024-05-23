@@ -1,0 +1,756 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Reprizo Gold Dial Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 500,
+      "old_price": 700,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "BestSellerCategory",
+      "category": "Watch",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-3-copyright_1024x1024@2x.png?v=1621936829",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-5-copyright_1080x.jpg?v=1624530382",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-5-copyright_1080x.jpg?v=1624530382",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-3-copyright_1024x1024@2x.png?v=1621936829"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fastrack Men’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 540,
+      "old_price": 890,
+      "brand": "Gold Watches",
+      "category": "Watch",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-40-copyright_1080x.jpg?v=1624530267",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-40-copyright_1080x.jpg?v=1624530267",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lawson Franklin 44 Men’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 180,
+      "old_price": 200,
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-5-copyright_1080x.jpg?v=1624530382",
+      "brand": "BestSellerCategory",
+      "category": "Watch",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-1-copyright_1024x1024@2x.png?v=1621937522",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-5-copyright_1080x.jpg?v=1624530382",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-1-copyright_1024x1024@2x.png?v=1621937522"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Skmei Women’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 250,
+      "old_price": "",
+      "brand": "AFFORDABLE WATCHES",
+      "category": "Jewllary",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-5-copyright_720x.png?v=1621937123",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/home-repair-3_1080x.png?v=1627044613",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/home-repair-3_1080x.png?v=1627044613",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-5-copyright_720x.png?v=1621937123"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Espoir Analog Dial Women’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 200,
+      "old_price": "220.00",
+      "brand": "AFFORDABLE WATCHES",
+      "category": "AFFORDABLE WATCHES",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-6-copyright_720x.png?v=1624448803",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/home-repair-3_1080x.png?v=1627044613",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-6-copyright_720x.png?v=1624448803"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Fogg Women’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 115,
+      "old_price": "130.00",
+      "brand": "AFFORDABLE WATCHES",
+      "category": "Jewllary",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-4-copyright_1024x1024@2x.png?v=1621937807",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/home-repair-3_1080x.png?v=1627044613",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-4-copyright_1024x1024@2x.png?v=1621937807"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Gemstone and Diamond Accent Earrings",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 890,
+      "old_price": 700,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "birthstones",
+      "category": "birthstones",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/7_720x.png?v=1624632637",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/17_1080x.jpg?v=1625154109",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/17_1080x.jpg?v=1625154109",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/7_720x.png?v=1624632637"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fastrack  Borealis Crystal Pear Earrings",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 890,
+      "old_price": "",
+      "brand": "birthstones",
+      "category": "birthstones",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/9_720x.png?v=1624632437",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/17_1080x.jpg?v=1625154109",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/17_1080x.jpg?v=1625154109",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/9_720x.png?v=1624632437"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Goldplated Crystal Flower Earrings",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 490,
+      "old_price": "",
+      "brand": "Earrings",
+      "category": "Earrings",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/9_1080x.jpg?v=1625154129",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/15_5f363e05-2ca7-444e-a166-71eeac9ebae9_720x.png?v=1624632706",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/9_1080x.jpg?v=1625154129",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/15_5f363e05-2ca7-444e-a166-71eeac9ebae9_720x.png?v=1624632706"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Morocco Silver Chain",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 260,
+      "old_price": "",
+      "brand": "Expression Jewelry",
+      "category": "Earrings",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/21_1080x.jpg?v=1625154253",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-12-copyright_720x.png?v=1626942479",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/21_1080x.jpg?v=1625154253",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-12-copyright_720x.png?v=1626942479"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Platinum Diamond Ring",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 690,
+      "old_price": "",
+      "brand": "Expression Jewelry",
+      "category": "Jewelry",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-10-copyright_720x.png?v=1626942346",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-10-copyright_720x.png?v=1626942346"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Women’s Brushed Gold Wedding Band",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 690,
+      "old_price": "",
+      "brand": "Gemstones",
+      "category": "Jewelry",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/10_1080x.jpg?v=1625154207",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-11-copyright_720x.png?v=1626942151",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/10_1080x.jpg?v=1625154207",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-11-copyright_720x.png?v=1626942151"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Men’s Brushed Titanium Wedding Band",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 690,
+      "old_price": "",
+      "brand": "Gemstones",
+      "category": "Gemstones",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/13_4d9d799e-4428-467e-a669-90984182c936_720x.png?v=1624632533",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/13_4d9d799e-4428-467e-a669-90984182c936_720x.png?v=1624632533"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Skmei Women’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 310,
+      "old_price": "",
+      "brand": "Mechanical Watches",
+      "category": "Jewllary",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-45-copyright_1080x.jpg?v=1624530311",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-7-copyright_720x.png?v=1621937444",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-45-copyright_1080x.jpg?v=1624530311",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-7-copyright_720x.png?v=1621937444"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Singapore Silver Chain",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 390,
+      "old_price": "",
+      "brand": "Pendants & Necklaces",
+      "category": "Jewllary",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/6_1080x.jpg?v=1625154183",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/10_acb1c7b4-9c77-4f88-ab79-1360e3558a00_720x.png?v=1624632783",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/6_1080x.jpg?v=1625154183",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/10_acb1c7b4-9c77-4f88-ab79-1360e3558a00_720x.png?v=1624632783"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Women’s Brushed Plutinum Wedding Band",
+      "brand": "Limited Edition Jewelry",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 690,
+      "old_price": "",
+      "category": "Jewllary",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-23-copyright_1080x.jpg?v=1624530294",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-9-copyright_540x.png?v=1626941872",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-23-copyright_1080x.jpg?v=1624530294",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-9-copyright_540x.png?v=1626941872"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Silver Overlay Diamond Accent Necklace",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 260,
+      "old_price": "",
+      "brand": "birthstones",
+      "category": "birthstones",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/6_1024x1024@2x.png?v=1624632674",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/6_1024x1024@2x.png?v=1624632674"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Italian Silver Diamond-cut Necklace",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 380,
+      "old_price": "",
+      "category": "Jewllary",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/17_607b77d9-a76b-4581-8be5-9ffb3d21cd60_1024x1024@2x.png?v=1624632815",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/17_607b77d9-a76b-4581-8be5-9ffb3d21cd60_1024x1024@2x.png?v=1624632815"
+      ]
+    }
+  ],
+  "categoriesWatch": [
+    {
+      "id": 1,
+      "title": "Reprizo Gold Dial Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 500,
+      "old_price": 700,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Watch",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-3-copyright_1024x1024@2x.png?v=1621936829",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-3-copyright_1024x1024@2x.png?v=1621936829"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fastrack Men’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 540,
+      "old_price": 890,
+      "brand": "Gold Watches",
+      "category": "Watch",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lawson Franklin 44 Men’s Watch",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 180,
+      "old_price": 200,
+      "category": "Watch",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-1-copyright_1024x1024@2x.png?v=1621937522",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-1-copyright_1024x1024@2x.png?v=1621937522"
+      ]
+    }
+  ],
+  "categoriesJewllary": [
+    {
+      "id": 15,
+      "title": "Women’s Brushed Plutinum Wedding Band",
+      "brand": "Limited Edition Jewelry",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 690,
+      "old_price": "",
+      "category": "Jewllary",
+      "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-23-copyright_1080x.jpg?v=1624530294",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-9-copyright_540x.png?v=1626941872",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-23-copyright_1080x.jpg?v=1624530294",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-9-copyright_540x.png?v=1626941872"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Silver Overlay Diamond Accent Necklace",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 260,
+      "old_price": "",
+      "brand": "birthstones",
+      "category": "birthstones",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/6_1024x1024@2x.png?v=1624632674",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/6_1024x1024@2x.png?v=1624632674"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Italian Silver Diamond-cut Necklace",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 380,
+      "old_price": "",
+      "category": "Jewllary",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/17_607b77d9-a76b-4581-8be5-9ffb3d21cd60_1024x1024@2x.png?v=1624632815",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/17_607b77d9-a76b-4581-8be5-9ffb3d21cd60_1024x1024@2x.png?v=1624632815"
+      ]
+    }
+  ],
+  "newsItemdata": [
+    {
+      "id": 101,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-2-copyright_1920x1080.jpg?v=1624457678",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-2-copyright_1920x1080.jpg?v=1624457678"
+      ],
+      "title": "What Type of Metal Will You Choose?",
+      "src": "https://player.vimeo.com/video/72258294"
+    },
+    {
+      "id": 102,
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-30-copyright_1920x1080.jpg?v=1624457530",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-30-copyright_1920x1080.jpg?v=1624457530"
+      ],
+      "title": "Never Follow These Tips to Care for a Watch",
+      "src": "https://player.vimeo.com/video/72258294"
+    },
+    {
+      "id": 103,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-5-copyright_1920x1080.jpg?v=1624457198",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-5-copyright_1920x1080.jpg?v=1624457198"
+      ],
+      "title": "The Difference Between Japanese and Swiss Quartz",
+      "src": "https://player.vimeo.com/video/72258294"
+    }
+  ],
+  "newsJewllary": [
+    {
+      "id": 104,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-3_1920x1080.jpg?v=1624456672",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-3_1920x1080.jpg?v=1624456672"
+      ],
+      "src": "https://player.vimeo.com/video/39330032",
+      "title": "Trendy Jewelry Pieces Worth the Splurge",
+      "description": "Vestibulum sem elit, eget in cum. Diam praesent lorem, fermentum omnis libero dignissim consectetuer luctus scelerisque, auctor massa diam in nullam. Dignissim amet amet, eros quis felis. Ut faucibus dolor etiam, porttitor vel. Tortor in orci ligu..."
+    },
+    {
+      "id": 105,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-1_1920x1080.jpg?v=1624456530",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-1_1920x1080.jpg?v=1624456530",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658"
+      ],
+      "title": "The Jewelry Industry in 2021-2022",
+      "src": "https://player.vimeo.com/video/39330032"
+    },
+    {
+      "id": 106,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-2_1920x1080.jpg?v=1624456480",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-2_1920x1080.jpg?v=1624456480"
+      ],
+      "title": "Masterpieces 2021 Collection Unveiled in Singapore",
+      "src": "https://player.vimeo.com/video/39330032"
+    }
+  ],
+  "newsRepair": [
+    {
+      "id": 107,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-1_1920x1080.jpg?v=1627310179",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-1_1920x1080.jpg?v=1627310179"
+      ],
+      "title": "Watch and Jewelry Maintenance Terms Explained",
+      "description": "Vestibulum sem elit, eget in cum. Diam praesent lorem, fermentum omnis libero dignissim consectetuer luctus scelerisque, auctor massa diam in nullam. Dignissim amet amet, eros quis felis. Ut faucibus dolor etiam, porttitor vel. Tortor in orci ligu..."
+    },
+    {
+      "id": 108,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093"
+      ],
+      "title": "Why You Should Learn To Service Your Own Watch"
+    },
+    {
+      "id": 109,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-3_1920x1080.jpg?v=1627309764",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-3_1920x1080.jpg?v=1627309764"
+      ],
+      "title": "How to Find a Watch Repair Shop You Can Trust"
+    }
+  ],
+  "AllNews": [
+    {
+      "id": 101,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-2-copyright_1920x1080.jpg?v=1624457678",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-2-copyright_1920x1080.jpg?v=1624457678"
+      ],
+      "title": "What Type of Metal Will You Choose?",
+      "src": "https://player.vimeo.com/video/72258294"
+    },
+    {
+      "id": 102,
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-30-copyright_1920x1080.jpg?v=1624457530",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-30-copyright_1920x1080.jpg?v=1624457530"
+      ],
+      "title": "Never Follow These Tips to Care for a Watch",
+      "src": "https://player.vimeo.com/video/72258294"
+    },
+    {
+      "id": 103,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-5-copyright_1920x1080.jpg?v=1624457198",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-45-copyright_480x480.jpg?v=1624457119",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-5-copyright_1920x1080.jpg?v=1624457198"
+      ],
+      "title": "The Difference Between Japanese and Swiss Quartz",
+      "src": "https://player.vimeo.com/video/72258294"
+    },
+    {
+      "id": 104,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-3_1920x1080.jpg?v=1624456672",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-3_1920x1080.jpg?v=1624456672"
+      ],
+      "src": "https://player.vimeo.com/video/39330032",
+      "title": "Trendy Jewelry Pieces Worth the Splurge",
+      "description": "Vestibulum sem elit, eget in cum. Diam praesent lorem, fermentum omnis libero dignissim consectetuer luctus scelerisque, auctor massa diam in nullam. Dignissim amet amet, eros quis felis. Ut faucibus dolor etiam, porttitor vel. Tortor in orci ligu..."
+    },
+    {
+      "id": 105,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-1_1920x1080.jpg?v=1624456530",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-1_1920x1080.jpg?v=1624456530",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658"
+      ],
+      "title": "The Jewelry Industry in 2021-2022",
+      "src": "https://player.vimeo.com/video/39330032"
+    },
+    {
+      "id": 106,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-2_1920x1080.jpg?v=1624456480",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/post-1_480x480.jpg?v=1624456658",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/post-2_1920x1080.jpg?v=1624456480"
+      ],
+      "title": "Masterpieces 2021 Collection Unveiled in Singapore",
+      "src": "https://player.vimeo.com/video/39330032"
+    },
+    {
+      "id": 107,
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-1_1920x1080.jpg?v=1627310179",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-1_1920x1080.jpg?v=1627310179",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093"
+      ],
+      "title": "Watch and Jewelry Maintenance Terms Explained",
+      "src": "https://player.vimeo.com/video/72258294",
+      "description": "Vestibulum sem elit, eget in cum. Diam praesent lorem, fermentum omnis libero dignissim consectetuer luctus scelerisque, auctor massa diam in nullam. Dignissim amet amet, eros quis felis. Ut faucibus dolor etiam, porttitor vel. Tortor in orci ligu..."
+    },
+    {
+      "id": 108,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093"
+      ],
+      "title": "Why You Should Learn To Service Your Own Watch",
+      "src": "https://player.vimeo.com/video/72258294"
+    },
+    {
+      "id": 109,
+      "thumbnai2": " https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+      "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-3_1920x1080.jpg?v=1627309764",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0570/1251/9078/files/image-repair-2_480x480.jpg?v=1627310093",
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/articles/image-repair-3_1920x1080.jpg?v=1627309764"
+      ],
+      "src": "https://player.vimeo.com/video/72258294",
+      "title": "How to Find a Watch Repair Shop You Can Trust"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sara",
+      "email": "Sara_mo@yahoo.com",
+      "password": "Sa28102001",
+      "cart": [
+        {
+          "id": 2,
+          "title": "Fastrack Men’s Watch",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 540,
+          "old_price": 890,
+          "brand": "Gold Watches",
+          "category": "Watch",
+          "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453"
+          ],
+          "quantity": 3
+        }
+      ],
+      "watchList": [
+        {
+          "id": 15,
+          "title": "Women’s Brushed Plutinum Wedding Band",
+          "brand": "Limited Edition Jewelry",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 690,
+          "old_price": "",
+          "category": "Jewllary",
+          "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-23-copyright_1080x.jpg?v=1624530294",
+          "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-9-copyright_540x.png?v=1626941872",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/image-23-copyright_1080x.jpg?v=1624530294",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-9-copyright_540x.png?v=1626941872"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Fastrack Men’s Watch",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 540,
+          "old_price": 890,
+          "brand": "Gold Watches",
+          "category": "Watch",
+          "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-8-copyright_1dc24a4f-5a6b-46ef-b695-5133164e9d5f_1024x1024@2x.png?v=1624625453"
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "mohamed",
+      "email": "mohamed@gmail.com",
+      "password": "Sa28102001",
+      "cart": [
+        {
+          "id": 9,
+          "title": "Fastrack  Borealis Crystal Pear Earrings",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 890,
+          "old_price": "",
+          "brand": "birthstones",
+          "category": "birthstones",
+          "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/9_720x.png?v=1624632437",
+          "thumbnai2": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/17_1080x.jpg?v=1625154109",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/collections/17_1080x.jpg?v=1625154109",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/9_720x.png?v=1624632437"
+          ],
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Lawson Franklin 44 Men’s Watch",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 180,
+          "old_price": 200,
+          "category": "Watch",
+          "thumbnail": "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-1-copyright_1024x1024@2x.png?v=1621937522",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://new-reprizo.shopify.axiomthemes.com/cdn/shop/products/product-1-copyright_1024x1024@2x.png?v=1621937522"
+          ],
+          "quantity": 1
+        }
+      ],
+      "watchList": [],
+      "id": 2
+    }
+  ],
+  "Contact": []
+}

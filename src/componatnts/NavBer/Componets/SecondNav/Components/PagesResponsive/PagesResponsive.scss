@@ -1,0 +1,31 @@
+.pages {
+    position: absolute;
+    top: 15rem;
+    width: 90%;
+    cursor: pointer;
+    gap: 1rem;
+}
+
+.pages a {
+    text-decoration: none;
+    color: black;
+}
+
+.pages-item--responsive {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bar-icon,
+.close-icon {
+    cursor: pointer;
+}
+
+.icon-left-arrow {
+    cursor: pointer;
+    margin-bottom: 1rem;
+}

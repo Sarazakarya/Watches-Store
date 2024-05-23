@@ -1,0 +1,29 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.AboutCounter {
+    width: 100%;
+    background-color: #f8f7f6;
+    padding: 6rem 10rem;
+    margin-bottom: 100PX;
+}
+
+.counter h2 {
+    font-size: 3rem;
+}
+
+.counter p {
+    color: gray;
+    font-size: .7rem;
+    text-align: center;
+}
+
+@media screen and (max-width:579px) {
+    .AboutCounter {
+        gap: 1rem;
+    }
+}

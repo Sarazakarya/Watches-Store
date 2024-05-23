@@ -1,0 +1,38 @@
+.Hero {
+    margin: 70px auto;
+}
+
+.Hero-Dwscription {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.Hero-Dwscription h1 {
+    font-family: ' font-family: "Karla", sans-serif;';
+    font-size: 3.2rem;
+    margin-bottom: 2rem;
+}
+
+.Hero-Dwscription p {
+    width: 60%;
+    text-align: center;
+    color: #a8a8a8;
+    font-weight: 400;
+}
+
+@media screen and (max-width:576px) {
+    .Hero-Dwscription h1 {
+        font-size: 2.1rem !important;
+    }
+
+    .Hero-Dwscription p {
+        width: 90% !important;
+    }
+
+    .carditems {
+        padding: 3rem 1rem;
+    }
+}

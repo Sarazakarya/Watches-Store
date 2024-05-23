@@ -1,0 +1,95 @@
+.item-payment-img img {
+    width: 20%;
+
+}
+
+.item-payment-img {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    position: relative;
+}
+
+.payment-item {
+    padding: 2rem 2rem 0 0;
+    position: sticky;
+    top: 5rem;
+}
+
+.products-payment {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+
+
+.total-price-payment {
+    padding-left: 2rem;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 1rem;
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+
+.all-products-payment {
+    height: auto;
+}
+
+.all-products-payments {
+    height: 40vh;
+    overflow-y: auto;
+}
+
+.item-quntity-payment {
+    display: flex;
+    background: gainsboro;
+    border-radius: 50%;
+    height: 1.5rem;
+    width: 1.5rem;
+    top: 0;
+    position: absolute;
+    left: 3.9rem;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width:1200px) {
+    .item-payment-img {
+        gap: 3rem;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .payment-inp {
+        height: 100vh;
+        padding: 2rem 0rem 0 0;
+        border-right: 0;
+
+    }
+
+    .payment-item {
+        margin-bottom: 2rem;
+    }
+
+}
+
+@media screen and (max-width:576px) {
+    .payment-inp {
+        height: 170vh;
+        padding: 2rem;
+
+    }
+
+}
+
+@media screen and (max-width:400px) {
+    .payment-inp {
+        height: 190vh;
+
+    }
+
+}

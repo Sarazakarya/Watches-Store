@@ -1,0 +1,69 @@
+.CardView {
+    margin: 70px auto;
+}
+
+.CardView-des {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.CardView-des h1 {
+    font-family: ' font-family: "Karla", sans-serif;';
+    font-size: 3.2rem;
+    margin-bottom: 2rem;
+}
+
+.CardView-des p {
+    width: 60%;
+    text-align: center;
+    color: #a8a8a8;
+    font-weight: 400;
+}
+
+.CardView-cards {
+    padding: 3rem;
+    width: 100%;
+    gap: 1.5rem;
+    display: flex;
+}
+
+.CardView-cards a {
+    font-family: ' font-family: "Karla", sans-serif;';
+    font-size: 3rem;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: 200;
+}
+
+.CardView-cards a:hover {
+    color: rgb(71, 115, 71);
+}
+
+.CardView-cards p {
+    color: rgb(161, 161, 161);
+}
+
+.CardView-cards img {
+    width: 100%;
+}
+
+@media screen and (max-width:1200px) {
+    .CardView-cards a {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .CardView-cards {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .CardView-des h1 {
+        font-size: 2.5rem;
+    }
+}
